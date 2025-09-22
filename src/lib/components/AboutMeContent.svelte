@@ -13,7 +13,7 @@
       target="_blank"
       rel="noopener noreferrer"
       class="rounded-3xl hover:shadow-xl bg-white border-4 border-black hover:bg-black hover:-translate-y-1 translate-y-0 duration-500 hover:text-white transition-all group text-black shadow-lg aspect-square flex flex-col text-lg justify-center items-center"
-      href="https://github.com/ronanru">
+      href="https://github.com/matrv">
       <div
         class="group-hover:-rotate-6 group-hover:scale-110 transition-transform duration-500">
         <Icon icon={mdiGithub} size={4} />
